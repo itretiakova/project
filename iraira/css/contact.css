@@ -1,0 +1,109 @@
+body{
+  background-color: rgb(255, 102, 0, 0.7);
+}
+
+hr{
+  color:white;
+  border:dotted;
+}
+
+.container-fluid a:hover
+{
+  color: blue;
+  text-decoration: none;
+}
+
+.container-fluid {
+ background: white;
+ position:relative;
+ padding:30px 50px ;
+ background-position: center;
+ background-size: cover;
+}
+
+h1{
+  font-family: "Bangla MN";
+  color: #FF7133;
+  text-align: left;
+  font-size: 50px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  background-color: #FF7133;
+  padding:20px;
+  text-align: center;
+  display: flex;
+  font-family: "Bangla MN";
+  height:50px;
+  }
+
+#logo{
+    border-radius:50%;
+    margin-top: -35px;
+    float:left;
+    width:120px;
+   }
+
+.container{
+    font-family:"BANGLA MN";
+    font-size: 20px;
+    color: firebrick;
+    padding: 10px;
+    background-color: #F6F6F6;
+    height: 40px;
+    text-align: center;
+    margin-top:10px;
+    float:left;
+}
+
+.contact-form {
+  float: left;
+}
+
+.contact_info {
+  float: left;
+}
+
+.Phone{
+    margin-left:100px;
+}
+.E-mail{
+  margin-left: 250px;
+}
+
+.Address{
+  margin-left: 10px;
+}
+
+.forminput{
+  display:block;
+  margin:10px;
+  font-family: BANGLA MN;
+}
+
+.mail{
+  font-family:"BANGLA MN";
+  font-size: 20px;
+  color: firebrick;
+  padding: 10px;
+  background: none;
+  height: 40px;
+  text-align: center;
+  margin-top:-10px;
+  float:left;
+}
+
+.form{
+  font-family:"BANGLA MN";
+  color: firebrick;
+  margin-top:8px;
+  background-color: #F6F6F6;
+  text-align:center;
+}
+
+.contact-form{
+  border-style: dotted;
+  border-color: #F6F6F6;
+}
